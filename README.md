@@ -63,7 +63,7 @@ inválidas, como divisões por zero ou operações não reconhecidas.
 
 ### Como Executar
 
-Certifique-se que os arquivos `calculadora_python.py` e `script_calculadora.sh` estejam no mesmo diretorio no seu ambiente linux, basta [baixa-los por aqui]().
+Certifique-se que os arquivos `calculadora_python.py` e `script_calculadora.sh` estejam no mesmo diretorio no seu ambiente linux, basta [baixa-los por aqui](https://github.com/KevynFirst/projeto-calculadora/blob/630c41433761c062584bad3fccbb3524f49052b8/projeto-calculadora.rar). 👈🏻
 <br>
 
 Agora vamos dar permissão de execução do arquivo, utilizando o comando:
