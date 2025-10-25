@@ -10,6 +10,11 @@ Projeto de um script shell de uma calculadora dinamica em python
   <a href="#-preview">Preview</a>
 </p>
 
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Ebac-Course-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Dev-Project-purple">	  
+</p>
+
 <br>
 
 ## 🚀 Tecnologias
